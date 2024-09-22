@@ -18,8 +18,10 @@
 
 [2024 Submerged Map Planning Tool](https://flltools.flltutorials.com/drawplan)
 
-## Task Tracking
+## Task Tracking and Planning
 [Robot Project Info](https://docs.google.com/document/d/1ubIg5bTiTGuGmL1Dgg-yhrOHEVOF6r5qDaiEzJN3C5M/)
+
+[Mission Planning](https://docs.google.com/spreadsheets/d/13WemKwUhrlFnUh6gTCBOrBsw_2ghDaJ3/edit?invite=CIKViuQL&exids=71471469%2C71471463&gid=1650685608#gid=1650685608)
 
 
 [Team 19991's 2024 Robot Code](https://github.com/jth214/fll-19991-fall-2024)
