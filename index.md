@@ -1,6 +1,6 @@
-# Team 18300 Robotics - Submerged 2024 
+# Team 19991 Robotics - Submerged 2024
 <center>
-<img src="team18300_2025.jpg" width="800">
+<img src="fll-19991.png" width="800">
 </center>
 
 ## First Game Rules, Judging, and other Information
@@ -19,26 +19,17 @@
 [2024 Submerged Map Planning Tool](https://flltools.flltutorials.com/drawplan)
 
 ## Task Tracking
-[Team 18300 Kanban Board - 2024](https://team18300.atlassian.net/jira/your-work)
+[Robot Project Info](https://docs.google.com/document/d/1ubIg5bTiTGuGmL1Dgg-yhrOHEVOF6r5qDaiEzJN3C5M/)
 
-## 2023 Team Code
-[Team 18300's Robot Tape Measure Code](https://fll-18300.github.io/home/18300_measure)
 
-[Team 18300's 2024 Robot Code](https://github.com/fll-18300/fall_2024)
+[Team 19991's 2024 Robot Code](https://github.com/jth214/fll-19991-fall-2024)
 
 ## Meeting Slides & Notes
-[18300 Meeting #1 Rubrics, Methods, Tools, and Sensor Failure](https://github.com/fll-18300/home/blob/main/meeting_1.pdf)
-
-[18300 Meeting #2 Gyros and tasks](https://github.com/fll-18300/home/blob/main/meeting_2.pdf)
 
 ## Reference Information
 [Bolton Robotics Spring Training Website](https://fssfll.github.io/fssfll/)
 
 [Pybrics Documentation](https://pybricks.com/ev3-micropython/index.html)
-
-[Team 18300's 2023 Robot Code](https://github.com/fll-18300/fall_2023)
-
-[Team 18300's 2022 Robot Code](https://github.com/fll-18300/fall_2022)
 
 ## Team 18300's Basebot Build Instructions
 <a class="buildin3d-instructions" href="https://platform.buildin3d.com/instructions/987-team-18300-s-fll-basebot" width="710" height="590">Team 18300's FLL Basebot</a><script async src="https://platform.buildin3d.com/embed_widget.js"></script>
