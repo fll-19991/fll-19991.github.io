@@ -21,6 +21,8 @@
 ## Task Tracking and Planning
 [Robot Project Info](https://docs.google.com/document/d/1ubIg5bTiTGuGmL1Dgg-yhrOHEVOF6r5qDaiEzJN3C5M/)
 
+<img src="strategy-v1.png" width="800">
+
 [Mission Planning](https://docs.google.com/spreadsheets/d/13WemKwUhrlFnUh6gTCBOrBsw_2ghDaJ3/edit?invite=CIKViuQL&exids=71471469%2C71471463&gid=1650685608#gid=1650685608)
 
 
