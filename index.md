@@ -28,8 +28,10 @@
 
 [Team 19991's 2024 Robot Code](https://github.com/jth214/fll-19991-fall-2024)
 
+[Data Collection]()
+
 ## Meeting Slides & Notes
-[Introduction to Python and the EV3 Bot]("Intro to Python.pdf")
+2024-09-25 Introduction to Python and the EV3 Bot [pdf](https://github.com/fll-19991/fll-19991.github.io/blob/main/Intro%20to%20Python.pdf) [keynote](https://github.com/fll-19991/fll-19991.github.io/blob/main/Intro%20to%20Python.key)
 
 ## Reference Information
 [Bolton Robotics Spring Training Website](https://fssfll.github.io/fssfll/)
