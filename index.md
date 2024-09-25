@@ -28,7 +28,7 @@
 
 [Team 19991's 2024 Robot Code](https://github.com/jth214/fll-19991-fall-2024)
 
-[Data Collection excel file]()
+[Data Collection excel file](https://github.com/fll-19991/fll-19991.github.io/blob/main/measurements.xlsx)
 
 ## Meeting Slides & Notes
 2024-09-25 Introduction to Python and the EV3 Bot [pdf](https://github.com/fll-19991/fll-19991.github.io/blob/main/Intro%20to%20Python.pdf) [keynote](https://github.com/fll-19991/fll-19991.github.io/blob/main/Intro%20to%20Python.key)
