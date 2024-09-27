@@ -25,6 +25,8 @@
 
 [Mission Planning](https://docs.google.com/spreadsheets/d/13WemKwUhrlFnUh6gTCBOrBsw_2ghDaJ3/edit?invite=CIKViuQL&exids=71471469%2C71471463&gid=1650685608#gid=1650685608)
 
+[Mission Collection and Scoring](https://docs.google.com/presentation/d/1m4cjALjJmmSsDaClf5pEo_zFIQaSzg9kTJxfkuqVSlU/edit?exids=71471469,71471463#slide=id.g3059f7b9f73_0_139)
+
 
 [Team 19991's 2024 Robot Code](https://github.com/jth214/fll-19991-fall-2024)
 
