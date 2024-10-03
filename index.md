@@ -35,6 +35,10 @@
 ## Meeting Slides & Notes
 2024-09-25 Introduction to Python and the EV3 Bot [pdf](https://github.com/fll-19991/fll-19991.github.io/blob/main/Intro%20to%20Python.pdf) [keynote](https://github.com/fll-19991/fll-19991.github.io/blob/main/Intro%20to%20Python.key)
 
+2024-10-02 Troubleshooting and Debugging [pdf](https://github.com/fll-19991/fll-19991.github.io/blob/main/Troubleshooting.pdf) [keynote](https://github.com/fll-19991/fll-19991.github.io/blob/main/Troubleshooting.key)
+
+[2024-10-02 Marine Life Tags Presentation](https://docs.google.com/presentation/d/1W8ZfFJe5tEYczZmbIgBu0jbc85UvAkxh0orL12_oAr4/edit#slide=id.g305a32326af_0_91)
+
 ## Reference Information
 [Bolton Robotics Spring Training Website](https://fssfll.github.io/fssfll/)
 
