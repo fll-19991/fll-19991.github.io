@@ -37,6 +37,8 @@
 
 2024-10-02 Troubleshooting and Debugging [pdf](https://github.com/fll-19991/fll-19991.github.io/blob/main/Troubleshooting.pdf) [keynote](https://github.com/fll-19991/fll-19991.github.io/blob/main/Troubleshooting.key)
 
+2024-10-30 Poka Yoke! [pdf](https://github.com/fll-19991/fll-19991.github.io/blob/main/Poka%20Yoke.pdf) [keynote](https://github.com/fll-19991/fll-19991.github.io/blob/main/Poka%20Yoke.key)
+
 [2024-10-02 Marine Life Tags Presentation](https://docs.google.com/presentation/d/1W8ZfFJe5tEYczZmbIgBu0jbc85UvAkxh0orL12_oAr4/edit#slide=id.g305a32326af_0_91)
 
 ## Reference Information
