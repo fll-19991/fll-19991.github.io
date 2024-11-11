@@ -41,6 +41,8 @@
 
 [2024-10-02 Marine Life Tags Presentation](https://docs.google.com/presentation/d/1W8ZfFJe5tEYczZmbIgBu0jbc85UvAkxh0orL12_oAr4/edit#slide=id.g305a32326af_0_91)
 
+[Team Speeches - Project and Robot](https://docs.google.com/document/d/1chllKslZNS23uZY62o47lkMUTk8vIa9EQuYQwWNseXI/edit?tab=t.0)
+
 ## Reference Information
 [Bolton Robotics Spring Training Website](https://fssfll.github.io/fssfll/)
 
