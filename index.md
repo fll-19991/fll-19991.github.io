@@ -43,6 +43,16 @@
 
 [Team Speeches - Project and Robot](https://docs.google.com/document/d/1chllKslZNS23uZY62o47lkMUTk8vIa9EQuYQwWNseXI/edit?tab=t.0)
 
+[Project Outline](https://docs.google.com/document/d/1nQ3Z-XH-jYB-JB17hacWRCI8EXrpAv7fahxVhvxAyMA/edit?tab=t.0)
+
+[Mission Motions](https://docs.google.com/presentation/d/1m4cjALjJmmSsDaClf5pEo_zFIQaSzg9kTJxfkuqVSlU/edit#slide=id.p)
+
+[Research](https://docs.google.com/presentation/d/1W8ZfFJe5tEYczZmbIgBu0jbc85UvAkxh0orL12_oAr4/edit#slide=id.g305a32326af_0_74)
+
+[Strategy Thoughts](https://docs.google.com/spreadsheets/d/13WemKwUhrlFnUh6gTCBOrBsw_2ghDaJ3/edit?gid=644074154#gid=644074154)
+
+[Project Design Matrix](https://docs.google.com/spreadsheets/d/1Gst7S_nr4tJP4klweNZ92Ia3v0JVIF3OsDz2MAGl4iY/edit?gid=0#gid=0)
+
 ## Reference Information
 [Bolton Robotics Spring Training Website](https://fssfll.github.io/fssfll/)
 
