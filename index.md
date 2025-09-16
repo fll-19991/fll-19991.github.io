@@ -27,6 +27,9 @@
 
 [Mission Collection and Scoring](https://docs.google.com/presentation/d/1m4cjALjJmmSsDaClf5pEo_zFIQaSzg9kTJxfkuqVSlU/edit?exids=71471469,71471463#slide=id.g3059f7b9f73_0_139)
 
+[Python Commands](https://fssfll.github.io/fssfll/spike/howto/Python_Commands.pdf)
+
+[Team 19991's 2025 Robot Code](https://github.com/jth214/Fall2025_19991.git)
 
 [Team 19991's 2024 Robot Code](https://github.com/jth214/fll-19991-fall-2024)
 
