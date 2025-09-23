@@ -1,22 +1,22 @@
-# Team 19991 Robotics - Submerged 2024
+# Team 19991 Robotics - Unearthed 2025
 <center>
 <img src="fll-19991.png" width="800">
 </center>
 
 ## First Game Rules, Judging, and other Information
-[2024 Submerged Robot Game Rule](https://firstinspires.blob.core.windows.net/fll/challenge/2024-25/fll-challenge-submerged-rgr-eng.pdf)
+[2025 Unearthed Robot Game Rule](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-rgr.pdf)
 
-[2024 Submerged Challenge Updates](https://firstinspires.blob.core.windows.net/fll/challenge/2024-25/fll-challenge-updates-and-clarifications.pdf)
+[2025 Unearthed Challenge Updates](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-challenge-updates.pdf)
 
-[2024 Submerged Robot Game Scoring Tool](https://eventhub.firstinspires.org/scoresheet)
+[2025 Unearthed Robot Game Scoring Tool](https://eventhub.firstinspires.org/scoresheet)
 
-[2024 Submerged Judging Rubric](https://firstinspires.blob.core.windows.net/fll/challenge/2024-25/fll-challenge-submerged-rubrics-color.pdf)
+[2025 Unearthed Judging Rubric](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-rubrics-color.pdf)
 
-[2024 Submerged Mission Model Build Instructions](https://www.firstlegoleague.org/season?__hstc=212927755.dbef977658b50c7f632f87d695f2bbe3.1722951784801.1723652535897.1724766434780.5&__hssc=212927755.1.1724766434780&__hsfp=3531153208)
+[2025 Unearthed Mission Model Build Instructions](https://www.firstlegoleague.org/season?__hstc=212927755.dbef977658b50c7f632f87d695f2bbe3.1722951784801.1723652535897.1724766434780.5&__hssc=212927755.1.1724766434780&__hsfp=3531153208)
 
-[2024 Submerged Field Setup Guide](https://docs.google.com/presentation/d/1tI0MJXJH19z141av1CC6lwUby5iERwdhnWmgEx6pxns/edit?pli=1#slide=id.g2f5cf425f3e_0_455)
+[2025 Unearthed Field Setup Guide](https://www.youtube.com/watch?v=u2yB-cPCjmQ)
 
-[2024 Submerged Map Planning Tool](https://flltools.flltutorials.com/drawplan)
+[2025 Unearthed Map Planning Tool](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-wireframe.pdf)
 
 ## Task Tracking and Planning
 [Robot Project Info](https://docs.google.com/document/d/1ubIg5bTiTGuGmL1Dgg-yhrOHEVOF6r5qDaiEzJN3C5M/)
