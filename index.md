@@ -1,4 +1,4 @@
-# Team 19991 Robotics - Unearthed 2025
+# Team 19991 Robotics - UNEARTHED 2025
 <center>
 <img src="fll-19991.png" width="800">
 </center>
