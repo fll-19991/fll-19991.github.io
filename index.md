@@ -19,7 +19,7 @@
 [2025 Unearthed Map Planning Tool](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-wireframe.pdf)
 
 ## Task Tracking and Planning
-<img src="strategy-v1.png" width="800">
+<img src="unearthed_map.png" width="800">
 
 [Mission Planning](https://docs.google.com/spreadsheets/d/1VFWflwEM_zsq0eKIJNA6H7MjognSannJ/edit?gid=1650685608#gid=1650685608)
 
