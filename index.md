@@ -58,6 +58,3 @@
 [Pybrics Documentation](https://pybricks.com/ev3-micropython/index.html)
 
 [Quickchange attachment example build](https://github.com/fll-19991/fll-19991.github.io/blob/main/quickchange-attachment.pdf)
-
-## Team 18300's Basebot Build Instructions
-<a class="buildin3d-instructions" href="https://platform.buildin3d.com/instructions/987-team-18300-s-fll-basebot" width="710" height="590">Team 18300's FLL Basebot</a><script async src="https://platform.buildin3d.com/embed_widget.js"></script>
