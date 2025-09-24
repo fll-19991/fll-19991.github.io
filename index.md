@@ -19,13 +19,9 @@
 [2025 Unearthed Map Planning Tool](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-wireframe.pdf)
 
 ## Task Tracking and Planning
-[Robot Project Info](https://docs.google.com/document/d/1ubIg5bTiTGuGmL1Dgg-yhrOHEVOF6r5qDaiEzJN3C5M/)
-
 <img src="strategy-v1.png" width="800">
 
-[Mission Planning](https://docs.google.com/spreadsheets/d/13WemKwUhrlFnUh6gTCBOrBsw_2ghDaJ3/edit?invite=CIKViuQL&exids=71471469%2C71471463&gid=1650685608#gid=1650685608)
-
-[Mission Collection and Scoring](https://docs.google.com/presentation/d/1m4cjALjJmmSsDaClf5pEo_zFIQaSzg9kTJxfkuqVSlU/edit?exids=71471469,71471463#slide=id.g3059f7b9f73_0_139)
+[Mission Planning](https://docs.google.com/spreadsheets/d/1VFWflwEM_zsq0eKIJNA6H7MjognSannJ/edit?gid=1650685608#gid=1650685608)
 
 [Python Commands](https://fssfll.github.io/fssfll/spike/howto/Python_Commands.pdf)
 
